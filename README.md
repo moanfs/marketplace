@@ -1,4 +1,5 @@
 ## Merchant Katering
+Nama : Halomoan Filipus Simarmata
 
 Web ini menggunkan framework laravel 10, mysql sebegai database
 
