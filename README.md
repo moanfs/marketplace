@@ -43,6 +43,6 @@ php artisan serve
 ```
 
 ## database structure
- ![database](https://github.com/moanfs/tugas-kelompok-group-8/blob/main/public/images/dashboard.png)
+ ![database](https://github.com/moanfs/marketplace/blob/main/public/img/db.png)
 
 
